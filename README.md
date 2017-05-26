@@ -1,5 +1,6 @@
 Automating Academic Advising Assignments
-Andrew Banister, Salma Chiheb, John Daniels, Heather Gronewald, Jordan King, Paris Nelson 
+
+co-authored by Andrew Banister, Salma Chiheb, John Daniels, Heather Gronewald, Jordan King, Paris Nelson 
 
 Sample Student Data.xls is created from a random name generator with an expected distribution of majors for students entering Southwestern. StudentList.txt is the version to be read by the program.
 
